@@ -42,8 +42,7 @@
   ],
   "dependencies": {
     "exec-buffer": "^3.0.0",
-    "is-jpg": "^2.0.0",
-    "jpeg-recompress-bin": "^4.0.0"
+    "is-jpg": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.25.0",
